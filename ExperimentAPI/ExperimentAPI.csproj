@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DAL\Repositories\" />
     <Folder Include="Enum\" />
   </ItemGroup>
 
